@@ -20,6 +20,10 @@ backend/results/
 backend/logs/
 backend/models/
 
+# 文档与归档（不入库）
+docs/
+.trae/
+
 # ─── 通用 ───
 *.log
 .DS_Store
