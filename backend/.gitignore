@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+uploads/*
+!uploads/.gitkeep
+results/*
+!results/.gitkeep
+logs/*
+!logs/.gitkeep
+*.db
+*.sqlite
+data/chroma/
